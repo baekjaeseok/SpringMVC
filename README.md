@@ -1,5 +1,6 @@
 ![image](https://github.com/baekjaeseok/SpringMVC/assets/133929822/fb89d9e7-348f-4830-ab08-5ad31457b349)
 #### 기술 스택
+- Spring Framework(전자정부프레임워크4.0.0)
 - Java / JavaScript / Ajax
 - HTML / CSS / JSP
 - MySQL DB
