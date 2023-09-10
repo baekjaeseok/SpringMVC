@@ -8,7 +8,7 @@
 - Kakao 검색 API
   
 #### 담당
-- 글쓰기, 수정, 삭제, 페이징
+- 글쓰기, 수정, 삭제, 조회수, 페이징
 ![crud](https://github.com/baekjaeseok/SpringMVC/assets/133929822/d8f98d15-9f85-4d6e-8d98-c800288e1ce6)
 
 - 답글, 검색
