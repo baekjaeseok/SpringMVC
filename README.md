@@ -1,6 +1,5 @@
 # SpringMVC
-## Spring Frameword 기반 게시판 제작
-## 전자정부프레임워크 4.0.0
+## Spring Framework(전자정부프레임워크 4.0.0)기반 게시판 제작
 #### 기술 스택
 - Java / JavaScript / Ajax
 - HTML / CSS / JSP
