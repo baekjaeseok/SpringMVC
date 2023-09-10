@@ -6,6 +6,8 @@
 - MySQL DB
 - Kakao 지도 API
 - Kakao 검색 API
-담당
+  
+#### 담당
+- Kakao API(지도, 도서검색)
 ![spring_API](https://github.com/baekjaeseok/SpringMVC/assets/133929822/d6bbc878-8872-44a8-b6fe-f2c486970f4f)
-- Kakao API(지도, 검색)
+
