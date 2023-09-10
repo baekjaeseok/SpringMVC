@@ -4,6 +4,7 @@
 - Java / JavaScript / Ajax
 - HTML / CSS / JSP
 - MySQL DB
+- Apache Tomcat v8.5
 - Kakao 지도 API
 - Kakao 검색 API
   
