@@ -14,6 +14,9 @@
 - 답글, 검색
 ![1](https://github.com/baekjaeseok/SpringMVC/assets/133929822/63f1eb98-fd03-4902-9885-46b466b742e4)
 
+- 비동기(Ajax)처리
+![3](https://github.com/baekjaeseok/SpringMVC/assets/133929822/ebf3e315-476f-4f06-b557-3ede85732163)
+
 - Kakao API(지도, 도서검색)
 ![spring_API](https://github.com/baekjaeseok/SpringMVC/assets/133929822/d6bbc878-8872-44a8-b6fe-f2c486970f4f)
 
